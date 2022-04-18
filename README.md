@@ -1,0 +1,2 @@
+# Attitude-Analysis
+Attitude Analysis through social media using data mining techniques. Here we use 'Big 5' personality traits i.e. OCEAN - 1) Openness 2) Conscientiousness 3) Extraversion 4) Agreeableness 5) Neuroticism.as a scale. We setup a ideal scale value from 1 to 5 across all 5 traits and analyse tweets of a particular individual and compare with the ideal sclale on a kiviat chart. This project has a front end web page, a database and backend processing using weighted average classification.
